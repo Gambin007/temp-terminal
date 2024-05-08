@@ -7,3 +7,11 @@ This is an expample project for git / githhub lesson
 - bar
 - baz
 
+
+
+### Here is some JS
+
+```js
+console.log("Hello World");
+```
+
