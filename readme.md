@@ -7,7 +7,10 @@ This is an expample project for git / githhub lesson
 - bar
 - baz
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Here is some JS
 
